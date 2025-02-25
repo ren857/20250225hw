@@ -4,37 +4,48 @@
 my-app
 └─src/main/java
   ├─controller
-  │    ├─member
-  │      AddMemberErrorUI.java
-  │      AddMemberSuccessUI.java
-  │      AddMemberUI.java
-  │      LoginErrorUI.java
-  │      LoginSuccessUI.java
-  │      LoginUI.java
+  │  ├─consmer
+  │      AddConsmerUI.java
+  │      ConsmerLoginUI.java
+  │  ├─employee
+  │      AddEmployeeUI.java
+  │      EmployeeLoginUI.java
+  │      WorkStationUI.java
   │  ├─porder
-  │      AddPorderCart.java
-  │      AddPorderCheckout.java
-  │      AddPorderUI.java
+  │      AddPordeUI.java
+  │      CheckoutUI.java
+  │      Excel.java
   ├─dao
-  │  │─MemberDao.java
+  │  │─ConsmerDao.java
+  │  ├─EmployeeDao.java
   │  ├─PorderDao.java
+  │  ├─ProductDao.java 
   │  └─impl
-  │      MemberDaoImpl.java
+  │      ConsmerDaoImpl.java
+  │      EmployeeDaoImpl.java
   │      PorderDaoImpl.java
+  │      ProductDaoImpl.java
   ├─model
-  │    │─Member.java
+  │    │─Consmer.java
+  │    │─Employee.java
+  │    │─Hw.java
   │    │─Porder .java
+  │    │─Product.java
   ├─service
-  │  │─MemberService.java
+  │  │─ConsmerService.java
+  │  │─EmployeeService.java
   │  │─PorderService.java
+  │  │─ProductService.java
   │  └─impl
-  │      MemberServiceImpl.java
+  │      ConsmerServiceImpl.java
+  │      EmployeeServiceImpl.java
   │      PorderServiceImpl.java
+  │      ProductServiceImpl.java
   └─util
-     │─ChangeCalculator
-     │─Clock
-     │─PrintUtility
+     │─ChangeCalculator.java
+     │─Clock.java
      │─DbConnection.java
+     │─DBExcel.java 
      │─Tool.java
 ```
 ### 測試環境
