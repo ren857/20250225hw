@@ -89,7 +89,8 @@ java -version
 - #### 總金額 (CheckoutUI.java)
 <img src="https://github.com/user-attachments/assets/2a698b7c-266b-4cc0-887c-a444d4b71a21" alt="示例圖像" width="500" height="500"> 
 
-
+- #### 付款找零 (CheckoutUI.java)
+<img src="https://github.com/user-attachments/assets/6fcd30ca-19de-451c-81e8-64ca3008247b" alt="示例圖像" width="500" height="500"> 
 
 
 
