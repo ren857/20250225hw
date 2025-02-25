@@ -80,6 +80,14 @@ java -version
 - #### 調整Update (AddPordeUI.java)
 <img src="https://github.com/user-attachments/assets/0fcd470a-6979-48c6-b51a-da12516088f3" alt="示例圖像" width="500" height="500">
 
+- #### 刪除 (AddPordeUI.java)
+<img src="https://github.com/user-attachments/assets/4410591b-c89d-4714-8db6-0a688a49e8a7" alt="示例圖像" width="500" height="500">
+
+- #### 結帳畫面 (CheckoutUI.java)
+<img src="https://github.com/user-attachments/assets/16561179-481e-4c57-943a-6ae3b55d77e0" alt="示例圖像" width="500" height="500">  
+
+
+
 
 
 
