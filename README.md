@@ -74,6 +74,15 @@ java -version
 - #### 購物畫面 (AddPordeUI.java)
 <img src="https://github.com/user-attachments/assets/232dfb8e-ef4e-4229-a9b3-ea676e21035a" alt="示例圖像" width="500" height="500">
 
+- #### 新增Add (AddPordeUI.java)
+<img src="https://github.com/user-attachments/assets/83d8313b-1580-4abe-bbe0-7e1271a11684" alt="示例圖像" width="500" height="500">
+
+- #### 新增Add (AddPordeUI.java)
+<img src="https://github.com/user-attachments/assets/0fcd470a-6979-48c6-b51a-da12516088f3" alt="示例圖像" width="500" height="500">
+
+
+
+
 
 
 
