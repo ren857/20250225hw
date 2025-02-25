@@ -92,7 +92,11 @@ java -version
 - #### 付款找零 (CheckoutUI.java)
 <img src="https://github.com/user-attachments/assets/6fcd30ca-19de-451c-81e8-64ca3008247b" alt="示例圖像" width="500" height="500"> 
 
+- #### 列印 Excel (Excel.java)
+<img src="https://github.com/user-attachments/assets/d5c36d82-1d88-4af8-b653-7b947846053a" alt="示例圖像" width="500" height="500"> 
 
+- #### 匯出 Excel (Excel.java)
+<img src="https://github.com/user-attachments/assets/03fcbfa8-e928-41de-b813-35788d43375e" alt="示例圖像" width="500" height="500">
 
 
 
