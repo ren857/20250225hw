@@ -84,7 +84,12 @@ java -version
 <img src="https://github.com/user-attachments/assets/4410591b-c89d-4714-8db6-0a688a49e8a7" alt="示例圖像" width="500" height="500">
 
 - #### 結帳畫面 (CheckoutUI.java)
-<img src="https://github.com/user-attachments/assets/16561179-481e-4c57-943a-6ae3b55d77e0" alt="示例圖像" width="500" height="500">  
+<img src="https://github.com/user-attachments/assets/16561179-481e-4c57-943a-6ae3b55d77e0" alt="示例圖像" width="500" height="500"> 
+
+- #### 總金額 (CheckoutUI.java)
+<img src="https://github.com/user-attachments/assets/2a698b7c-266b-4cc0-887c-a444d4b71a21" alt="示例圖像" width="500" height="500"> 
+
+
 
 
 
