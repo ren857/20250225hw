@@ -67,7 +67,8 @@ java -version
 ### 實作說明:  
 - #### 登入畫面 (ConsmerLoginUI.java)
 <img src="https://github.com/user-attachments/assets/26ea2a42-693c-4f33-9f8f-c795ebd4e1e0" alt="示例圖像" width="500" height="500">
-- #### 註冊畫面 (LoginUI.java)
+
+- #### 註冊畫面 (AddConsmerUI.java)
 <img src="https://github.com/user-attachments/assets/b58e1fc3-ef85-4043-a3c1-900868a20c1a" alt="示例圖像" width="500" height="500">
 
 
