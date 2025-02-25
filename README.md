@@ -77,7 +77,7 @@ java -version
 - #### 新增Add (AddPordeUI.java)
 <img src="https://github.com/user-attachments/assets/83d8313b-1580-4abe-bbe0-7e1271a11684" alt="示例圖像" width="500" height="500">
 
-- #### 新增Add (AddPordeUI.java)
+- #### 調整Update (AddPordeUI.java)
 <img src="https://github.com/user-attachments/assets/0fcd470a-6979-48c6-b51a-da12516088f3" alt="示例圖像" width="500" height="500">
 
 
