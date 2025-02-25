@@ -107,8 +107,8 @@ java -version
 - #### 員工後臺管理 (WorkStationUI.java)
 <img src="https://github.com/user-attachments/assets/0a4f1e4a-2741-405c-8c6e-3464f97fc813" alt="示例圖像" width="500" height="500"> 
 
-
-
+- #### 更改產品 (WorkStationUI.java)
+<img src="https://github.com/user-attachments/assets/32ac65ed-7183-48cd-a1f6-d0ec012a9639" alt="示例圖像" width="500" height="500"> 
 
 
 
