@@ -64,3 +64,8 @@ java -version
 ### 下載連結 
 [sql資料庫,jar執行檔](https://github.com/ren857/20250225hw/tree/main/%E4%BD%9C%E6%A5%AD5 "游標顯示")
 
+### 實作說明:  
+- #### 登入畫面 (LoginUI.java)
+- <img src="https://github.com/user-attachments/assets/26ea2a42-693c-4f33-9f8f-c795ebd4e1e0" alt="示例圖像" width="500" height="500">
+
+
