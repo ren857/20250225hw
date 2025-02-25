@@ -98,6 +98,14 @@ java -version
 - #### 匯出 Excel (Excel.java)
 <img src="https://github.com/user-attachments/assets/03fcbfa8-e928-41de-b813-35788d43375e" alt="示例圖像" width="500" height="500">
 
+- #### 員工登入畫面 (EmployeeLoginUI.java)
+<img src="https://github.com/user-attachments/assets/0fc8b76e-494e-43a4-8a7b-c0ed7e7125b7" alt="示例圖像" width="500" height="500">
+
+- #### 員工註冊畫面 (AddEmployeeUI.java)
+<img src="https://github.com/user-attachments/assets/667bb4c6-ee95-4a98-8c68-26f3d4c14e31" alt="示例圖像" width="500" height="500">
+
+- #### 員工後臺管理 (WorkStationUI.java)
+<img src="https://github.com/user-attachments/assets/0a4f1e4a-2741-405c-8c6e-3464f97fc813" alt="示例圖像" width="500" height="500"> 
 
 
 
