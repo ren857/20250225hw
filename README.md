@@ -71,5 +71,9 @@ java -version
 - #### 註冊畫面 (AddConsmerUI.java)
 <img src="https://github.com/user-attachments/assets/b58e1fc3-ef85-4043-a3c1-900868a20c1a" alt="示例圖像" width="500" height="500">
 
+- #### 購物畫面 (AddPordeUI.java)
+<img src="https://github.com/user-attachments/assets/232dfb8e-ef4e-4229-a9b3-ea676e21035a" alt="示例圖像" width="500" height="500">
+
+
 
 
